@@ -21,7 +21,7 @@ An Indian store wants to see their annual sales performance using their data in 
 - Checked data types of columns and gave me relevant data type.(E.g: Set the format of the amount column to INR)
 - Performed EDA on the data according to the research questions and created a dashboard.
 
-<a href="https://1drv.ms/x/c/e00c4401c3ff4da1/EfDeYqR7OgBGrpQMTC_MNesBUV5y5TnQElP8jXtt3w03_A?e=zOrpbt&nav=MTVfezg5NkIxRUUyLTg1OEItNDQxNC1BRTlDLUVFQzdCQzZERUE5QX0"> Check Excel file and dashboard here</a>
+<a href="https://1drv.ms/x/c/e00c4401c3ff4da1/EfDeYqR7OgBGrpQMTC_MNesBUV5y5TnQElP8jXtt3w03_A?e=zOrpbt&nav=MTVfezg5NkIxRUUyLTg1OEItNDQxNC1BRTlDLUVFQzdCQzZERUE5QX0" target="_blank"> Check Excel file and dashboard here</a>
 
 ![image](https://github.com/ali-bin-kashif/Store-Data-Analysis-Excel/assets/85495570/e1bdf25e-426f-4347-aa6c-241e07cb0057)
 
